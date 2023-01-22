@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak\\Desktop\\Web.App\\WebApp\\CoreLayer\\CoreLayer.csproj": {}
+    "C:\\Users\\burak\\Desktop\\Murat YüceDağ Mvc Kampı\\Burak-Kol-Mvc-Camp\\Web.App\\WebApp\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak\\Desktop\\Web.App\\WebApp\\CoreLayer\\CoreLayer.csproj": {
+    "C:\\Users\\burak\\Desktop\\Murat YüceDağ Mvc Kampı\\Burak-Kol-Mvc-Camp\\Web.App\\WebApp\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\Desktop\\Web.App\\WebApp\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Desktop\\Murat YüceDağ Mvc Kampı\\Burak-Kol-Mvc-Camp\\Web.App\\WebApp\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "C:\\Users\\burak\\Desktop\\Web.App\\WebApp\\CoreLayer\\CoreLayer.csproj",
+        "projectPath": "C:\\Users\\burak\\Desktop\\Murat YüceDağ Mvc Kampı\\Burak-Kol-Mvc-Camp\\Web.App\\WebApp\\CoreLayer\\CoreLayer.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\Desktop\\Web.App\\WebApp\\CoreLayer\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Desktop\\Murat YüceDağ Mvc Kampı\\Burak-Kol-Mvc-Camp\\Web.App\\WebApp\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

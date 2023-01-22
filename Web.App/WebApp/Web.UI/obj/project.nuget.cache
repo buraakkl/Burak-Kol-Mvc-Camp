@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ll8cwoXk3ZKY40IuuyyuU49WMxrrmplGjh+TaXf/Sp6GXmQ1Uhf8pB1lpWCYlIMWSm2oUo5MYLSSLo8Wd4lVlA==",
+  "dgSpecHash": "ZEbT5M5Usyj++sBDq/zivtvN4r1glxMZsIx9YpA657cJ5Zq14eiwLRaEgOApogKFIVoesrmne3EyGz1ZPtQ3hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\burak\\Desktop\\Web.App\\WebApp\\Web.UI\\Web.UI.csproj",
+  "projectFilePath": "C:\\Users\\burak\\Desktop\\Murat YüceDağ Mvc Kampı\\Burak-Kol-Mvc-Camp\\Web.App\\WebApp\\Web.UI\\Web.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burak\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

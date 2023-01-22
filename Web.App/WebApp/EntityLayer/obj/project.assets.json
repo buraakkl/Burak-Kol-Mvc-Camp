@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\burak\\Desktop\\Web.App\\WebApp\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\burak\\Desktop\\Murat YüceDağ Mvc Kampı\\Burak-Kol-Mvc-Camp\\Web.App\\WebApp\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\burak\\Desktop\\Web.App\\WebApp\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\burak\\Desktop\\Murat YüceDağ Mvc Kampı\\Burak-Kol-Mvc-Camp\\Web.App\\WebApp\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\burak\\Desktop\\Web.App\\WebApp\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\burak\\Desktop\\Murat YüceDağ Mvc Kampı\\Burak-Kol-Mvc-Camp\\Web.App\\WebApp\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

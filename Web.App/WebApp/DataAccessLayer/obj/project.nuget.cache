@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "97l5AXDUfCIcsS47yc6MEoA4km8h6PbMfFJ20zxriSRMKrhp+xIWMIk6M5LaNg5Y7zyeZgVBe3ckkZARjrQKMg==",
+  "dgSpecHash": "Z488j0TpMEQ//B/TT7iioON12kqXurNYoSYt9SqkSeXjf+Uc7tYeu8XR2870xCx3d2Kl6k4w/7R0GxqcWKsXoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\burak\\Desktop\\Web.App\\WebApp\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\burak\\Desktop\\Murat YüceDağ Mvc Kampı\\Burak-Kol-Mvc-Camp\\Web.App\\WebApp\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burak\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

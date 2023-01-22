@@ -10,3 +10,15 @@ C:\Users\burak\Desktop\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\EntityLayer.d
 C:\Users\burak\Desktop\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
 C:\Users\burak\Desktop\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
 C:\Users\burak\Desktop\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+C:\Users\burak\Desktop\Murat YüceDağ Mvc Kampı\Burak-Kol-Mvc-Camp\Web.App\WebApp\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\burak\Desktop\Murat YüceDağ Mvc Kampı\Burak-Kol-Mvc-Camp\Web.App\WebApp\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\burak\Desktop\Murat YüceDağ Mvc Kampı\Burak-Kol-Mvc-Camp\Web.App\WebApp\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\burak\Desktop\Murat YüceDağ Mvc Kampı\Burak-Kol-Mvc-Camp\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Murat YüceDağ Mvc Kampı\Burak-Kol-Mvc-Camp\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Murat YüceDağ Mvc Kampı\Burak-Kol-Mvc-Camp\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Murat YüceDağ Mvc Kampı\Burak-Kol-Mvc-Camp\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\burak\Desktop\Murat YüceDağ Mvc Kampı\Burak-Kol-Mvc-Camp\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Murat YüceDağ Mvc Kampı\Burak-Kol-Mvc-Camp\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\burak\Desktop\Murat YüceDağ Mvc Kampı\Burak-Kol-Mvc-Camp\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\burak\Desktop\Murat YüceDağ Mvc Kampı\Burak-Kol-Mvc-Camp\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\burak\Desktop\Murat YüceDağ Mvc Kampı\Burak-Kol-Mvc-Camp\Web.App\WebApp\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
