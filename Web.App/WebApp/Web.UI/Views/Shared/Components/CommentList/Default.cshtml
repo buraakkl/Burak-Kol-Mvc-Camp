@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Web.UI.Models.UserComment>
+
+    @foreach(var item in Model)
+    {
+            <p>@item.ID</p>
+            <p>@item.UserName</p>
+    }
+
+
+
+
+
+    @*Şuana kadar bir komponent oluşturduk ve statik olarak veri girişi yaparak bunu yorumlar kısmında listeledik.30. Videoyu tekrardan dinle ve tasarımda yaptığın hatayı bul !*@

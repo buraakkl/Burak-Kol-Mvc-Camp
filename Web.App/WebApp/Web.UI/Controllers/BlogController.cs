@@ -6,10 +6,16 @@ namespace Web.UI.Controllers
 {
     public class BlogController : Controller
     {
-        BlogManager mb = new BlogManager(new EfBlogRepository());
+        BlogManager bm = new BlogManager(new EfBlogRepository());
         public IActionResult Index()
         {
-            var values = mb.GetBlogListWithCategory();
+            var values = bm.GetBlogListWithCategory();
+            return View(values);
+        }
+
+        public IActionResult BlogReadAll(int id)
+        {
+            var values = bm.GetBlogById(id);
             return View(values);
         }
     }
